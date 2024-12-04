@@ -1,6 +1,5 @@
 ```
-<snippet>
-    <content><![CDATA[
+
 //to calculate modular inverse pass(a, mod-2, mod)
 int binexp(int a, int b, int m) {
     int result = 1;
@@ -13,7 +12,3 @@ int binexp(int a, int b, int m) {
     }
     return result;
 }
-]]></content>
-    <tabTrigger>binModExpo</tabTrigger>
-    <scope>source.c++</scope>
-</snippet>
