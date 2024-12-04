@@ -1,6 +1,5 @@
 ```xml
-<snippet>
-    <content><![CDATA[
+
 const int MAX = 1000000;
 vector<int> primes;
 
@@ -37,8 +36,4 @@ ll primeFactorization(ll n) {
 }
 
 //Call the Sieve function in main function
-]]></content>
-<tabTrigger>primeFactorize</tabTrigger>
-<scope>source.c++</scope>
-</snippet>
-```
+
