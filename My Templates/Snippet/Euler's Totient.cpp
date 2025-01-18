@@ -1,4 +1,3 @@
-```cpp
 const int MAX = 5000000;
 
 vector<ull> phi(MAX + 1);
@@ -17,4 +16,4 @@ void computeTotient() {
         }
     }
 }
-```
+
